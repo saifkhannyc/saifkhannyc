@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Python**
 
-- 💬 Talk to me about **New project ideas, opportunities, web development, freelance**
+- 💬 Talk to me about **New project ideas, opportunities, web development**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saifkhanba/](https://www.linkedin.com/in/saifkhanba/)
 
