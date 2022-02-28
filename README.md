@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [NBCS's Website](https://nbcsny.org/)
 
-- 🌱 I’m currently learning **Vue.js, Python**
+- 🌱 I’m currently learning **Vue.js, Laravel Framework**
 
-- 💬 Talk to me about **New project ideas, opportunities, web development**
+- 💬 Talk to me about **New project ideas, opportunities, web development, startup**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saifkhanba/](https://www.linkedin.com/in/saifkhanba/)
 
